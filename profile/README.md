@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="<img width="512" height="512" alt="driverfinance-icon-512" src="https://github.com/user-attachments/assets/2392934e-697b-48a1-ae54-6fe8993d70ea" /> " width="96" alt="DriverFinance">
+  <img src="https://raw.githubusercontent.com/DriverFinance/.github/main/profile/icon.png" width="96" alt="DriverFinance">
 </p>
 
 <h1 align="center">DriverFinance</h1>
