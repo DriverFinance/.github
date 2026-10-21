@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://driverfinance.online/icons/icon-512x512.png" width="96" alt="DriverFinance">
+  <img src="<img width="512" height="512" alt="driverfinance-icon-512" src="https://github.com/user-attachments/assets/2392934e-697b-48a1-ae54-6fe8993d70ea" /> " width="96" alt="DriverFinance">
 </p>
 
 <h1 align="center">DriverFinance</h1>
