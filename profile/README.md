@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DriverFinance/.github/main/profile/icon.png" width="96" alt="DriverFinance">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DriverFinance/.github/main/profile/logo-branco.png">
+    <img src="https://raw.githubusercontent.com/DriverFinance/.github/main/profile/logo-escuro.png" width="360" alt="DriverFinance">
+  </picture>
 </p>
-
-<h1 align="center">DriverFinance</h1>
 
 <p align="center">
   Copiloto financeiro para motorista de aplicativo.<br>
@@ -22,4 +23,4 @@
 - **Finanças**: ganhos, despesas, metas e relatórios do turno, da semana e do mês.
 - **Guardião**: grava a viagem quando o motorista aciona, para a segurança de quem dirige.
 
-Android, feito no Brasil.
+Android, feito no Brasil :brazil:
