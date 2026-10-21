@@ -17,11 +17,13 @@
 
 <br>
 
-**O que o app faz**
+<h3 align="center">O que o app faz</h3>
 
-- **Copiloto**: lê a oferta da Uber e da 99 na tela e mostra na hora o lucro da corrida.
-- **Finanças**: ganhos, despesas, metas e relatórios do turno, da semana e do mês.
-- **Guardião**: grava a viagem quando o motorista aciona, para a segurança de quem dirige.
+<p align="center">
+  <b>Copiloto</b>: lê a oferta da Uber e da 99 na tela e mostra na hora o lucro da corrida.<br>
+  <b>Finanças</b>: ganhos, despesas, metas e relatórios do turno, da semana e do mês.<br>
+  <b>Guardião</b>: grava a viagem quando o motorista aciona, para a segurança de quem dirige.
+</p>
 
 <br>
 
